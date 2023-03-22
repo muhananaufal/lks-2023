@@ -1,0 +1,11 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "test",
+  "steps": [
+    {
+      "file": "resources/views/landing.blade.php",
+      "description": "onjrnvjnvj",
+      "line": 13
+    }
+  ]
+}

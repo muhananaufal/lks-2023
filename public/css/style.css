@@ -1,0 +1,31 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+
+.bg-black {
+  background-color: black;
+}
+
+.navbar-brand img {
+  max-width: 50px !important;
+}
+
+.section-padding-top-sm {
+  padding-top: 80px;
+}
+.section-padding-bottom-sm {
+  padding-bottom: 80px;
+}
+
+.section-padding-top {
+  padding-top: 120px;
+}
+
+.section-padding-bottom {
+  padding-bottom: 120px;
+}
+
+.fs-80 {
+  font-size: 80px;
+}
