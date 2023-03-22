@@ -43,7 +43,7 @@
       <div class="container section-padding-top-sm  section-padding-bottom-sm">
         <div class="row text-center">
           <div class="col-md-12">
-            <h5 class="fw-bold">Web by Muhana Naufal Al-Atsari</h5>
+            <h5 class="fw-bold">Website by Muhana Naufal Al-Atsari</h5>
             <p>Enjoy !!</p>
           </div>
         </div>
