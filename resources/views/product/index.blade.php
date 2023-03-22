@@ -10,7 +10,7 @@
     <p class="alert alert-danger">{{Session::get('product_delete')}}</p>
 @endif
 
-<a href="{{route('products.create')}}" class="btn btn-primary">Create a new product</a>
+<a href="{{route('products.create')}}" class="btn btn-primary">Add a new product</a>
 <br>
 <br>
 <div class="row">
